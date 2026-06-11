@@ -1,4 +1,4 @@
-# Machine Learning-Based Insurance Claim Prediction App
+# Machine Learning-Based Insurance-Cost-Prediction-ML App
 
 This repository contains a Streamlit web application for predicting insurance claim amounts based on user input. The predictive model is trained using machine learning techniques.
 
@@ -52,8 +52,8 @@ Ensure to follow best practices in each step, and consider continuous monitoring
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/MuhammadSheraza002/insurance-claim-prediction.git
-    cd insurance-claim-prediction
+   git clone https://github.com/Maniramswami/insurance-claim-prediction.git
+cd insurance-claim-prediction
     ```
 
 2. **Install Dependencies:**
